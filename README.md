@@ -5,6 +5,7 @@
 
 ## 🛠️ Technologies & Tools
 **Frontend:** React, JavaScript, HTML, CSS, Typescript, Tailwind CSS, Redux
+
  **Tools:** Git, GitHub, VS Code, npm
  
 ## 🌱 Currently Learning
