@@ -15,4 +15,4 @@
 ### How to reach me 
 Email: deborahkamikazi9@gmail.com
 
-(LinkedIn) [https://www.linkedin.com/in/deborah-kamikazi-5a1010311/]
+[LinkedIn](https://www.linkedin.com/in/deborah-kamikazi-5a1010311/)
