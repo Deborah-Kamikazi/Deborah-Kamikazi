@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello! I'm Deborah Kamikazi, a passionate software developer with a love for crafting elegant code.
 
-<!--
-**Deborah-Kamikazi/Deborah-Kamikazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀About Me
+ `💻 I'm a full-stack developer specializing in JavaScript, React, Typescript, Redux. I'm also keen on learning new technologies and constantly improving my skills.`
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+**Frontend:** React, JavaScript, HTML, CSS, Typescript, Tailwind CSS, Redux
+- **Tools:** Git, GitHub, VS Code, npm
+ 
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
