@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Deborah Kamikazi, a passionate software developer with a love for crafting elegant code.
+## 👋 Hello! I'm Deborah Kamikazi
 
 ## 🚀About Me
  `💻 I'm a full-stack developer specializing in JavaScript, React, Typescript, Redux. I'm also keen on learning new technologies and constantly improving my skills.`
@@ -11,4 +11,4 @@
 - Advanced React concepts
 - State management with Redux
 
--->
+
