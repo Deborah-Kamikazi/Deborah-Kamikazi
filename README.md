@@ -6,9 +6,12 @@
 ## 🛠️ Technologies & Tools
 **Frontend:** React, JavaScript, HTML, CSS, Typescript, Tailwind CSS, Redux
 
- **Tools:** Git, GitHub, VS Code, npm
+ **Tools:** Git, GitHub, VS Code
  
 ## 🌱 Currently Learning
 - Advanced React concepts
 - State management with Redux
 
+### How to reach me 
+Email: deborahkamikazi9@gmail.com
+LinkedIn :Deborah Kamikazi
